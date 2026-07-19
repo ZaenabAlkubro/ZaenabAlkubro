@@ -9,7 +9,7 @@
 ###
 
 <div data-importer="socials" align="center">
-  <a href="www.linkedin.com/in/zaenab-alkubro" target="_blank">
+  <a href="https://www.linkedin.com/in/zaenab-alkubro" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/zaenab.zibo/" target="_blank">
@@ -19,7 +19,7 @@
 
 ###
 
-<h3 data-importer="text" align="left">👩‍💻  About Me</h3>
+<h3 data-importer="text" align="left">👩‍💻   About Me</h3>
 
 ###
 
@@ -64,7 +64,7 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=zaenab al kubro&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=ZaenabAlkubro&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
@@ -72,9 +72,9 @@
 <br clear="both">
 
 <picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zaenab al kubro/zaenab al kubro/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zaenab al kubro/zaenab al kubro/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/zaenab al kubro/zaenab al kubro/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZaenabAlkubro/ZaenabAlkubro/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZaenabAlkubro/ZaenabAlkubro/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ZaenabAlkubro/ZaenabAlkubro/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
 
 ###
